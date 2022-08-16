@@ -20,11 +20,15 @@
 - Oracle
 - Git & Github
 
+<br>
+
 📌 예원's 역할
 - Oracle 이용한 DB구축
 - Ajax 이용하여 로그인 기능 구현
 - myBatis 이용하여 DB연동
 - jsp 이용하여 웹페이지 구현
+
+<br>
 
 📌 아쉬운 점
 - 수집해야 할 데이터 양이 방대하여 시간 배분에 실패한 점
